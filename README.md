@@ -42,4 +42,4 @@ Este projeto tem como objetivo desenvolver um agente de IA para realizar anális
 
 #### Pasta de Insights
 A pasta de insights contém algumas das entregas e insights que foram gerados durante o projeto.
-Please feel free to check it out.
+Fique à vontade para dar uma olhada.
