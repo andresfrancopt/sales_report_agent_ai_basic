@@ -1,5 +1,7 @@
 ### Sales Report Agent for Meganium
 
+### English:
+
 #### Overview
 This project aims to develop an AI agent to perform data analysis and provide on-demand data insights for Meganium, a handheld console manufacturer. The data used in this project comes from three different CSV files: Meganium_Sales_Data_-_AliExpress.csv, Meganium_Sales_Data_-_Etsy.csv, and Meganium_Sales_Data_-_Shopee.csv. In this case, Claude AI was utilized.
 
@@ -17,6 +19,10 @@ This project aims to develop an AI agent to perform data analysis and provide on
 #### Insights Folder
 The insights folder contains some of the deliverables and insights that were generated during the project. 
 Please feel free to check it out.
+
+--------
+
+### Portuguese:
 
 ### Relatório de Autoatendimento de Vendas para Meganium
 
