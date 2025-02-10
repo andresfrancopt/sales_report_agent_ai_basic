@@ -1,0 +1,71 @@
+Insights:
+Total Countries,7
+Total Age Groups,5
+
+Top Products by Country:
+Country,SKU,Total Quantity,Total Revenue
+Australia,SKU-CUBEXX01,13,1040.00
+Australia,SKU-28XX01,8,560.00
+Australia,SKU-353M01,5,550.00
+Australia,SKU-35XX01,2,180.00
+UK,SKU-35XX01,7,630.00
+UK,SKU-353M01,5,550.00
+UK,SKU-CUBEXX01,1,80.00
+Germany,SKU-28XX01,7,490.00
+Germany,SKU-40XXV01,7,700.00
+Germany,SKU-CUBEXX01,5,400.00
+Germany,SKU-353M01,3,330.00
+Germany,SKU-35XX01,1,90.00
+Canada,SKU-40XXV01,19,1900.00
+Canada,SKU-35XX01,14,1260.00
+Canada,SKU-28XX01,11,770.00
+Canada,SKU-CUBEXX01,2,160.00
+USA,SKU-353M01,4,440.00
+USA,SKU-CUBEXX01,1,80.00
+France,SKU-35XX01,12,1080.00
+France,SKU-CUBEXX01,9,720.00
+France,SKU-353M01,6,660.00
+France,SKU-28XX01,5,350.00
+France,SKU-40XXV01,4,400.00
+Japan,SKU-40XXV01,11,1100.00
+Japan,SKU-353M01,6,660.00
+Japan,SKU-CUBEXX01,5,400.00
+Japan,SKU-28XX01,5,350.00
+
+Top Products by Age Group:
+Age Group,SKU,Total Quantity,Total Revenue
+55+,SKU-CUBEXX01,27,2160.00
+55+,SKU-353M01,20,2200.00
+55+,SKU-40XXV01,20,2000.00
+55+,SKU-35XX01,18,1620.00
+55+,SKU-28XX01,6,420.00
+45-54,SKU-40XXV01,14,1400.00
+45-54,SKU-35XX01,13,1170.00
+45-54,SKU-28XX01,7,490.00
+45-54,SKU-CUBEXX01,3,240.00
+25-34,SKU-28XX01,4,280.00
+25-34,SKU-40XXV01,2,200.00
+35-44,SKU-28XX01,14,980.00
+35-44,SKU-353M01,9,990.00
+35-44,SKU-35XX01,5,450.00
+35-44,SKU-40XXV01,1,100.00
+35-44,SKU-CUBEXX01,1,80.00
+18-24,SKU-28XX01,5,350.00
+18-24,SKU-CUBEXX01,5,400.00
+18-24,SKU-40XXV01,4,400.00
+
+Key Observations:
+1. Sales distribution varies across countries and age groups
+2. Some SKUs perform consistently across different segments
+3. Product preferences show interesting variations by region and age
+
+Detailed Breakdown:
+Country Performance Highlights:
+- Canada: SKU-40XXV01 dominates with 19 units
+- France: Most diverse product mix
+- USA: Smallest sales volume
+
+Age Group Insights:
+- 55+ age group has highest total sales
+- 25-34 age group shows lowest product diversity
+- 18-24 and 35-44 age groups have more balanced purchasing

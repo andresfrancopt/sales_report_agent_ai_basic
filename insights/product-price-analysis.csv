@@ -1,0 +1,18 @@
+Insights,Value
+Total Unique Products,5
+Lowest Average Unit Price,$70.00
+Highest Average Unit Price,$110.00
+Overall Price Range,$70.00 - $110.00
+
+SKU,Average Unit Price,Total Quantity Sold,Total Revenue
+SKU-28XX01,70.00,36,2520.00
+SKU-CUBEXX01,80.00,36,2880.00
+SKU-35XX01,90.00,36,3240.00
+SKU-40XXV01,100.00,41,4100.00
+SKU-353M01,110.00,29,3190.00
+
+Key Observations:
+1. Price ranges from $70 to $110
+2. Most products have consistent quantity sold (36 units)
+3. SKU-40XXV01 has highest total revenue despite mid-range price
+4. SKU-353M01 has lowest quantity but highest unit price
